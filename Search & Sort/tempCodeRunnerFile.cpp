@@ -1,0 +1,1 @@
+selectionSort(arr,7);
